@@ -15,6 +15,10 @@ A small front-end quiz app built with plain HTML, CSS, and JavaScript.
 - `style.css` contains the styling
 - `app.js` contains the quiz logic and questions
 
+## Live Demo
+
+[Live Demo](https://quiz.singkhantuang97.workers.dev/)
+
 ## How To Run
 
 This project does not need any build tools or dependencies.
